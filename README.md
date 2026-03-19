@@ -15,13 +15,13 @@ This project analyzes how discounting affects sales and profitability using a re
 ### Discounts increase sales
 
 * Higher discounts generally lead to higher sales
-* Peak sales occur around **50% discount**
+* Peak sales occur around 50% discount
 
 ### Discounts reduce profit
 
 * Profit decreases as discounts increase
-* Discounts above **30% lead to losses**
-* At **50% discount**, average profit is around **-310**
+* Discounts above 30% lead to losses
+* At 50% discount, average profit is around -310
 
 ### Trade-off
 
